@@ -1,15 +1,4 @@
-# ConnectFest Helper
-
-## Ressources:
-
-### Helpful Links:
-- Event Website https://connectfest.pt/ 
-- Bosch IoT Suite Website: https://www.bosch-iot-suite.com/
-- API Documentation: https://apidocs.bosch-iot-suite.com/
-- ESP32 Demo: http://ec2-52-59-210-177.eu-central-1.compute.amazonaws.com/overview
-- Getting Started Asset Communictation Package: https://docs.bosch-iot-suite.com/asset-communication/Getting-started.html
-
-# ConnectFest Helper
+# ConnectFest Useful Things
 
 ## Ressources:
 
