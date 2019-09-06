@@ -24,8 +24,7 @@
 
 #### Howto build a simple Java app that sends data to the Suite.
 
-Find pdf called:
-"Howto build a Java App with the Suite Example for Laptop or Raspberry Pi.pdf"
+https://github.com/kerstek/connectfest/blob/master/HowtoJavaAppwithSuiteExample.pdf
 
 #### If you want to visualize ESP32 Data from Things (Solution part) you can use this code.
 - Use this to visualize your ESP32 Data from Things: https://github.com/bsinno/iot-things-examples/tree/master/octopus-bidirectional
